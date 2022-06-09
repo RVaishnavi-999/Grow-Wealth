@@ -53,8 +53,21 @@ Real-time buying & selling of stocks can be included.
 ![image](https://user-images.githubusercontent.com/69259777/172811509-582dbb5e-e024-43bd-8333-575e9e072fba.png)
 ![image](https://user-images.githubusercontent.com/69259777/172811601-437e9603-d1c5-4f9a-9878-bf97ddad4a0c.png)
 ![image](https://user-images.githubusercontent.com/69259777/172811685-1549ab9d-10b8-4db5-be96-4c709e3341ce.png)
-![image](https://user-images.githubusercontent.com/69259777/172811746-d745938a-5605-4c71-a104-a871e406273c.png)
-![image](https://user-images.githubusercontent.com/69259777/172811780-58076698-09cf-43b7-8d6e-32009247199e.png)
+
+#### Login / Register.php
+![image](https://user-images.githubusercontent.com/69259777/172812365-2e54bc32-37fe-49ed-abbd-a273310c3d2b.png)
+
+#### viewstock1.php
+![image](https://user-images.githubusercontent.com/69259777/172812506-42338c96-cf73-4c21-bdf9-25b963110d5d.png)
+![image](https://user-images.githubusercontent.com/69259777/172812697-c147d932-d574-43b7-9d2c-1d51c60aec0e.png)
+
+#### chart_analysis.php
+![image](https://user-images.githubusercontent.com/69259777/172812897-ba6a8668-e7e3-437b-910b-6e17bbf67c89.png)
+![image](https://user-images.githubusercontent.com/69259777/172813058-4d818b02-ef92-4859-85fc-8e1d14cf58a4.png)
+![image](https://user-images.githubusercontent.com/69259777/172813109-d765219d-b5d1-4c8b-a747-347ef2e0f544.png)
+
+#### company_price.php
+![image](https://user-images.githubusercontent.com/69259777/172813329-d4a6d65a-e433-4d39-ba5a-b4e6b8439e44.png)
 
 
 
