@@ -50,6 +50,13 @@ Real-time buying & selling of stocks can be included.
 
 #### intro.php
 ![image](https://user-images.githubusercontent.com/69259777/172811208-d8154e6f-9f9f-4578-af29-24f295cebb86.png)
+![image](https://user-images.githubusercontent.com/69259777/172811509-582dbb5e-e024-43bd-8333-575e9e072fba.png)
+![image](https://user-images.githubusercontent.com/69259777/172811601-437e9603-d1c5-4f9a-9878-bf97ddad4a0c.png)
+![image](https://user-images.githubusercontent.com/69259777/172811685-1549ab9d-10b8-4db5-be96-4c709e3341ce.png)
+![image](https://user-images.githubusercontent.com/69259777/172811746-d745938a-5605-4c71-a104-a871e406273c.png)
+![image](https://user-images.githubusercontent.com/69259777/172811780-58076698-09cf-43b7-8d6e-32009247199e.png)
+
+
 
 
 
