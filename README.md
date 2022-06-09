@@ -12,11 +12,14 @@ This application provides the following services:
 *  News & insights about Stocks.
 *  Market & Chart analysis.
 
-## Technologies to be used: 
-WAMP Server - MySQL Database, Sublime Text.
+## Technologies used: 
+* WAMP Server - MySQL Database, Sublime Text.
+* Google spreadsheet : For getting real-time stock quotes
+* SheetDB
 
 ## Languages used:
-PHP, HTML, CSS, JS
+* FrontEnd : HTML, CSS, JS
+* BackEnd  : PHP
 
 ## Functional requirements:
 Users Functions –
