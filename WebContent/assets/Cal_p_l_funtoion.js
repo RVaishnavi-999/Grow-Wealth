@@ -5,8 +5,6 @@ var pl = function(){
 
 function cal_p_l() 
 {
-	/*var x = document.getElementById("display").value=Math.random()
-	document.getElementById("display1").innerHTML = x;*/
 
     /*takes type of trade enetered using dropdown*/
 	var e = document.getElementById("type_of_trade");
